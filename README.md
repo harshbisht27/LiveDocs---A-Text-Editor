@@ -1,5 +1,5 @@
 
-# 📒LivDocs 
+# 📒LiveDocs 
 
 
 LiveDocs is a collaborative text editor inspired by Google Docs. Built with Next.js for a seamless user interface, powered by Liveblocks for real-time collaboration, and styled using TailwindCSS, this project aims to showcase the developer's expertise in creating real-time applications that leave a lasting impact.
